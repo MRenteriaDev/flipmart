@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'category',
     'accounts',
     'store',
+    'carts',
     # 3r apps
     'ckeditor',
 ]
